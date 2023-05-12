@@ -22,14 +22,14 @@ Styling:
 - Flexboxes
 
 Roadmap:
-- [ ] Create initial setup
-- [ ] Configure vite-plugin
+- [X] Create initial setup
+- [X] Configure vite-plugin
 - [ ] Draw flow diagram
 - [ ] Create requirements documentation
 - [ ] Define ports
 - [ ] Create Host
-    - [ ] ReactJS
-    - [ ] Configure override CSS
+    - [X] ReactJS
+    - [X] Configure override CSS
     - [ ] Create Go Server
         - [ ] Gin
         - [ ] Embed web files
