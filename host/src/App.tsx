@@ -20,7 +20,7 @@ class App extends React.Component<{}, { loaded: string }> {
 
   render() {
     return <div className="App">
-      {this.state.loaded === "yes" && <div className="displays-box">
+      {this.state.loaded === "yes" && <div className="cards-box">
         <RemoteCards />
       </div>}
       {this.state.loaded !== "yes" && <div>Loading...</div>}
