@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 
 .history
+
+**/yarn.lock
