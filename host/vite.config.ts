@@ -9,7 +9,7 @@ export default defineConfig({
     federation({
       name: 'remote-host-app',
       remotes: {
-          remote_cards: "http://localhost:5001/assets/remoteCards.js",
+          remote_cards: "http://localhost:5005/assets/remoteCards.js",
       },
       shared: ['react', 'react-dom']
     })
